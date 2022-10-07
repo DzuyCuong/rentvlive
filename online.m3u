@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,HD
+https://rentvlive.netlify.app/rentvhd.m3u8
+#EXTINF:-1,SD
+https://rentvlive.netlify.app/rentvsd.m3u8
+#EXTINF:-1,INT
+https://rentvlive.netlify.app/rentvint.m3u8
